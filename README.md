@@ -1,6 +1,6 @@
 ### Olá Todos! Me chamo Luiz Domingues 👋😁
 
-- 📘 Atualmente estudando back-end com Python
+- 📘 Atualmente estudando React.js
 - 📫 Contate-me em: luiz.domingues.pro@gmail.com
 
 <div align="center">
