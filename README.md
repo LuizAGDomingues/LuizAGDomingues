@@ -1,15 +1,15 @@
-### Olá Todos! Me chamo Luiz Domingues 👋😁
-
-- 📘 Atualmente estudando React.js
-- 📫 Contate-me em: luiz.domingues.pro@gmail.com
-- 🔗 Acesse o site: https://luiz-presentation.vercel.app
-
+## Olá Todos! Me chamo Luiz Domingues 👋😁
+<ul>
+  <li>📘 Atualmente estudando React.js</li>
+  <li>📫 Contate-me em: luiz.domingues.pro@gmail.com</li>
+  <li>🔗 Acesse o site: https://luiz-presentation.vercel.app</li>
+</ul>
 <div align="center">
   <a href="https://github.com/LuizAGDomingues">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuizAGDomingues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAGDomingues&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@
    
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/luiz_gdomingues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-domingues-6437a5152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luiz.domingues.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
