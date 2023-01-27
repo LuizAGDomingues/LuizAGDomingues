@@ -1,8 +1,8 @@
 ## Olá Todos! Me chamo Luiz Domingues 👋😁
 <ul>
-  <li>📘 Atualmente estudando React.js</li>
-  <li>📫 Contate-me em: luiz.domingues.pro@gmail.com</li>
-  <li>🔗 Acesse o site: https://luizportifolio.vercel.app</li>
+  <li>📘 Atualmente trabalhando com React.js</li>
+  <li>📫 Contate-me em: luizdomingues.contato@gmail.com</li>
+  <li>🔗 Acesse o site: https://luizgdomingues.vercel.app</li>
 </ul>
 <div align="center">
   <a href="https://github.com/LuizAGDomingues">
