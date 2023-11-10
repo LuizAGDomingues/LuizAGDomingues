@@ -1,23 +1,13 @@
 ## Olá Todos! Me chamo Luiz Domingues 👋😁
 <ul>
-  <li>📘 Atualmente trabalhando com React.js</li>
+  <li>📘 Atualmente trabalhando com React, Angular e JAVA</li>
   <li>📫 Contate-me em: luizdomingues.contato@gmail.com</li>
-  <li>🔗 Acesse o site: https://luizgdomingues.vercel.app</li>
+  <li>🔗 Acesse o site: https://luizgdomingues.com.br</li>
 </ul>
 <div align="center">
   <a href="https://github.com/LuizAGDomingues">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuizAGDomingues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAGDomingues&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luiz-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Luiz-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Luiz-SQlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
    
   ##
