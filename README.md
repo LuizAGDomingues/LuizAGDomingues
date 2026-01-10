@@ -39,21 +39,10 @@ Organizei minhas habilidades pelo foco de atuação, já que você tem um perfil
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
----
-
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAGDomingues&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAGDomingues&layout=compact&theme=radical"/>
-</div>
-
----
-
 ### 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-a-g-domingues/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:luizdomingues.contato@gmail.com">
